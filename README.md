@@ -15,3 +15,5 @@ Works best with Among Us, catgirls, trap memes and/or existential dread.
 ### Preview (what people will see in a hex editor / debugger)
 
 <img src="https://github.com/tukewin/memepdb/blob/main/image.png"/>
+
+<img src="https://github.com/tukewin/memepdb/blob/main/image2.png"/>
