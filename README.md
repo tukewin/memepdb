@@ -11,7 +11,6 @@ Works best with Among Us, catgirls, trap memes and/or existential dread.
 ### Features?
 - Creates new `.femboy` section
 - Injects your ASCII art as UTF-8 text data
-- **Bonus mode**: overwrites PDB filename with your art (first ~15 lines) → forensic investigators get jumpscared
 
 ### Preview (what people will see in a hex editor / debugger)
 
