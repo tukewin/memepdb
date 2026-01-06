@@ -14,3 +14,5 @@ Works best with Among Us, catgirls, trap memes and/or existential dread.
 - **Bonus mode**: overwrites PDB filename with your art (first ~15 lines) → forensic investigators get jumpscared
 
 ### Preview (what people will see in a hex editor / debugger)
+
+<img src="https://github.com/tukewin/memepdb/blob/main/image.png"/>
