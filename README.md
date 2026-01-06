@@ -1,8 +1,4 @@
-<p align="center">
-  <b>memefactory</b> • hide cursed ASCII art inside any Windows PE file
-</p>
-
-# memefactory 🐾💉
+# memepdb
 
 Turn any `.exe`, `.sys`, `.dll` (or whatever) into a carrier of premium **energy** by injecting your favorite ASCII art straight into a new `.femboy` section + (optionally) the PDB path.
 
